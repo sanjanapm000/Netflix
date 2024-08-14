@@ -10,6 +10,7 @@ body{
     background-image: url("/assets/images/homebg.jpg");
     height:130vh;
     background-repeat: no-repeat;
+    background-size:cover;
     position: relative;
 }
 .main .box{
